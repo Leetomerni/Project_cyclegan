@@ -6,7 +6,7 @@ import sys
 from django.conf import settings
 from PIL import Image
 # Create your views here.
-sys.path.append(r"D:\Django_pro")#改成自己的项目路径，不要有中文
+sys.path.append(r"D:\Project_cyclegan\Django_pro")#改成自己的项目路径，不要有中文
 from forDjangotest import process_image  # 导入你写的函数
 def index(request):
     if request.method == 'POST':
