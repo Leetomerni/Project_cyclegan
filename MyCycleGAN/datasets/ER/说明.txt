@@ -1,0 +1,5 @@
+trainA：58张LR，用GT/level6重建的WF图像
+trainB：58张HR，用GT/level6重建的PCASIM的HR
+testA：10张LR，用level6重建的WF图像
+testB：10张HR，用level6重建的PCASIM的HR
+
