@@ -2,4 +2,7 @@ trainA：45张LR，用level9重建的WF图像
 trainB：45张HR，用level9重建的PCASIM的HR
 testA：10张LR，用level9重建的WF图像
 testB：10张HR，用level9重建的PCASIM的HR
+test1：10张LR，用level6重建的有噪声的WF图像
+test2：10张LR，用level4重建的有噪声的WF图像
+test3：10张LR，用level2重建的有噪声的WF图像
 
